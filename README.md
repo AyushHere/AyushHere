@@ -53,7 +53,7 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 
 <p align="left">
   <a href="https://github.com/Ayushhere">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushhere&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushhere&theme=monokai-metallian&hide_border=true"/>
   </a>
  
 </p>
