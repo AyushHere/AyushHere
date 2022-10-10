@@ -1,5 +1,7 @@
-Hi 👋 My name is Ayush Malviya
-==============================
+<h1 align="left">
+Hi, I'm Ayush Malviya !
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br/>
 
 Front-End Web Developer , Python Developer
 ------------------------------------------
@@ -10,7 +12,9 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 *   ✉️  You can contact me at [aayushmalviya90@gmail.com](mailto:aayushmalviya90@gmail.com)
 *   🧠  I'm learning Unity 3D and c#
 *   🤝  I'm open to collaborating on Open Source projects and Game Dev Projects
-*   ⚡  I am a Youtuber,Vlogger and also available as a Freelancer### Skills<p align="left">
+*   ⚡  I am a Youtuber,Vlogger and also available as a Freelancer
+### Skills
+<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -39,8 +43,50 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
                           <a href="https://www.twitter.com/@aayush_malviya9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
                           <a href="https://www.youtube.com/c/GamEngineer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
-### Badges<b>My GitHub Stats</b><a
- href="http://www.github.com/Ayushhere"><img src="https://github-readme-stats.vercel.app/api?username=Ayushhere&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ayushhere's GitHub stats" /></a><a
- href="http://www.github.com/Ayushhere"><img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushhere&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
- href="http://www.github.com/Ayushhere"><img src="https://activity-graph.herokuapp.com/graph?username=Ayushhere&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Ayushhere" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushhere&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🔥 Streak stats
+
+
+<p align="left">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushhere&theme=monokai-metallian&hide_border=true"/>
+  </a>
+ 
+</p>
+
+
+
+## 📊 GitHub Stats:
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayushhere&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushhere&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ayushhere&theme=react&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ayushhere&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## Recent Activity
+ 
+
+
+
+
+
+
+
