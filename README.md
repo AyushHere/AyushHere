@@ -3,7 +3,7 @@ Hi, I'm Ayush Malviya !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
-Front-End Web Developer , Python Developer
+Front-End Web Developer 
 ------------------------------------------
 
 I am a Student of Computer Science and Engineering with Specialization in Virtual Reality and Game Development
