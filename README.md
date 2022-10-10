@@ -70,5 +70,5 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 
  <a href="https://github.com/Ayushhere"><img alt="Ayush%20Malviya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayushhere&custom_title=Ayush%20Malviya's%20Contribution%20Graph&bg_color=1c1917&color=ffffff&line=0891b2&point=FFFFFF&hide_border=true" /></a>
  ---
-[![](https://visitcount.itsvg.in/api?id=Ayushhere&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ayushhere&icon=0&color=1)](https://github.com/Ayushhere)
 
