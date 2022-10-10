@@ -53,7 +53,7 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 
 <p align="left">
   <a href="https://github.com/Ayushhere">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushhere&theme=monokai-metallian&hide_border=true"/>
+    <img title="Ayush's streak Stats" alt="Ayush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushhere&theme=monokai-metallian&hide_border=true"/>
   </a>
  
 </p>
@@ -61,8 +61,8 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 
 
 ## 📊 GitHub Stats:
-<a href="https://github.com/Ayushhere"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayushhere&show_icons=true&count_private=true&theme=monokai-metallian&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/Ayushhere"><img alt="Ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushhere&langs_count=8&layout=compact&theme=monokai-metallian&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/Ayushhere"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayushhere&show_icons=true&count_private=true&theme=monokai-metallian&hide_border=true&bg_color=1F222E&title_color=ffffff&icon_color=0891b2" height="192px"/></a>
+  <a href="https://github.com/Ayushhere"><img alt="Ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushhere&langs_count=8&layout=compact&theme=monokai-metallian&hide_border=true&bg_color=1F222E&title_color=ffffff&icon_color=0891b2" height="192px"/></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ayushhere&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
@@ -70,7 +70,7 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 
 ## Recent Activity
 
- <a href="https://github.com/Ayushhere"><img alt="Ayush%20Malviya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayushhere&custom_title=Ayush%20Malviya's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ <a href="https://github.com/Ayushhere"><img alt="Ayush%20Malviya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayushhere&custom_title=Ayush%20Malviya's%20Contribution%20Graph&bg_color=1F222E&color=ffffff&line=0891b2&point=FFFFFF&hide_border=true" /></a>
  ---
 [![](https://visitcount.itsvg.in/api?id=Ayushhere&icon=0&color=1)](https://visitcount.itsvg.in)
 
