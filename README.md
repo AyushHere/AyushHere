@@ -48,17 +48,6 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## 🔥 Streak stats
 
 
@@ -72,21 +61,16 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 
 
 ## 📊 GitHub Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayushhere&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushhere&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayushhere&show_icons=true&count_private=true&theme=monokai-metallian&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushhere&langs_count=8&layout=compact&theme=monokai-metallian&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayushhere&theme=react&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ayushhere&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ayushhere&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## Recent Activity
- 
 
-
-
-
-
-
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ayush%20Malviya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayushhere&custom_title=Ayush%20Malviya's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ ---
+[![](https://visitcount.itsvg.in/api?id=Ayushhere&icon=0&color=1)](https://visitcount.itsvg.in)
 
