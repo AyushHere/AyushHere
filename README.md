@@ -52,8 +52,7 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 
 
 
-  <a href="http://www.github.com/gamengineerinc"><img src="https://camo.githubusercontent.com/f955331dd0898a4937980f7e3b370daea67e4c4304febe5f1ffb33bb82e991d6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d417975736868657265267374726f6b653d666666666666266261636b67726f756e643d3163313931372672696e673d30383931623226666972653d303839316232266375727253747265616b4e756d3d666666666666266375727253747265616b4c6162656c3d30383931623226736964654e756d733d66666666666626736964654c6162656c733d6666666666662664617465733d66666666666626686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushhere&amp;stroke=ffffff&amp;background=1c1917&amp;ring=0891b2&amp;fire=0891b2&amp;currStreakNum=ffffff&amp;currStreakLabel=0891b2&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" style="max-width: 100%;"></a>
- 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=GamEngineerinc&theme=dark)](https://git.io/streak-stats)
 </p>
 
 
