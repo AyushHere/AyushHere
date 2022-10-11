@@ -52,7 +52,7 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=GamEngineerinc&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=GamEngineerinc&theme=dark)](https://gitHub.com/gamengineerinc)
 </p>
 
 
