@@ -37,7 +37,7 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 <p align="left">
                           
 <a href="https://www.facebook.com/aayush.malviya.3994" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          <a href="https://www.github.com/gamengineerinc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          <a href="https://www.github.com/ayushhere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           <a href="http://www.instagram.com/ig_.ayush_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           <a href="https://www.linkedin.com/in/ayush-malviya-1b69381a0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           <a href="https://www.twitter.com/@aayush_malviya9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
@@ -52,22 +52,22 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=GamEngineerinc&theme=dark)](https://gitHub.com/gamengineerinc)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ayushhere&theme=dark)](https://gitHub.com/ayushhere)
 </p>
 
 
 
 ## 📊 GitHub Stats:
-<a href="http://www.github.com/gamengineerinc"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayushhere&show_icons=true&count_private=true&theme=monokai-metallian&hide_border=true&bg_color=1c1917&title_color=ffffff&icon_color=0891b2" height="192px"/></a>
-  <a href="http://www.github.com/gamengineerinc"><img alt="Ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushhere&langs_count=8&layout=compact&theme=monokai-metallian&hide_border=true&bg_color=1c1917&title_color=ffffff&icon_color=0891b2" height="192px"/></a>
+<a href="http://www.github.com/ayushhere"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayushhere&show_icons=true&count_private=true&theme=monokai-metallian&hide_border=true&bg_color=1c1917&title_color=ffffff&icon_color=0891b2" height="192px"/></a>
+  <a href="http://www.github.com/ayushhere"><img alt="Ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushhere&langs_count=8&layout=compact&theme=monokai-metallian&hide_border=true&bg_color=1c1917&title_color=ffffff&icon_color=0891b2" height="192px"/></a>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gamengineerinc&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ayushhere&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 
 ## Recent Activity
 
- <a href="http://www.github.com/gamengineerinc"><img alt="Ayush%20Malviya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gamengineerinc&custom_title=Ayush%20Malviya's%20Contribution%20Graph&bg_color=1c1917&color=ffffff&line=0891b2&point=FFFFFF&hide_border=true" /></a>
+ <a href="http://www.github.com/ayushhere"><img alt="Ayush%20Malviya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gamengineerinc&custom_title=Ayush%20Malviya's%20Contribution%20Graph&bg_color=1c1917&color=ffffff&line=0891b2&point=FFFFFF&hide_border=true" /></a>
  ---
-[![](https://visitcount.itsvg.in/api?id=gamengineerinc&icon=0&color=1)](http://www.github.com/gamengineerinc)
+[![](https://visitcount.itsvg.in/api?id=ayushhere&icon=0&color=1)](http://www.github.com/ayushhere)
 
