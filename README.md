@@ -65,9 +65,4 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 ![](https://github-profile-trophy.vercel.app/?username=ayushhere&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 
-## Recent Activity
-
- <a href="http://www.github.com/ayushhere"><img alt="Ayush%20Malviya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayushhere&custom_title=Ayush%20Malviya's%20Contribution%20Graph&bg_color=1c1917&color=ffffff&line=0891b2&point=FFFFFF&hide_border=true" /></a>
- ---
-[![](https://visitcount.itsvg.in/api?id=ayushhere&icon=0&color=1)](http://www.github.com/ayushhere)
 
