@@ -56,8 +56,8 @@ I am a professional Full-Stack Developer specializing in **modern web applicatio
 
 
 ## 📊 GitHub Stats:
-<a href="http://www.github.com/ayushhere"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushhere&show_icons=true&count_private=true&theme=monokai-metallian&hide_border=true&bg_color=1c1917&title_color=ffffff&icon_color=0891b2" height="192px"/></a>
-  <a href="http://www.github.com/ayushhere"><img alt="Ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushhere&langs_count=8&layout=compact&theme=monokai-metallian&hide_border=true&bg_color=1c1917&title_color=ffffff&icon_color=0891b2" height="192px"/></a>
+![](https://github-readme-stats.vercel.app/api?username=ayushhere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhere&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushhere&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
