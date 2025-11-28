@@ -64,5 +64,9 @@ I am a Student of Computer Science and Engineering with Specialization in Virtua
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushhere&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushHere/AyushHere/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushHere/AyushHere/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AyushHere/AyushHere/output/github-snake.svg" />
+</picture>
 
